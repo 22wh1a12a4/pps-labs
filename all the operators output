@@ -1,0 +1,22 @@
+enter a and b10
+8
+add is 18
+sub is 2
+mul is 80
+div is 1
+mod is 2
+l_and is 0
+l_or is 1
+l_not is 1
+greaterthan 0
+lessthan 1
+equals to 0
+not equal 1
+bitwise or 1
+bitwise and 0
+post increment is 20
+pre increment is 22
+post decremnt is 22
+pre decrement is 20
+Process returned 19 (0x13)   execution time : 16.058 s
+Press any key to continue.
